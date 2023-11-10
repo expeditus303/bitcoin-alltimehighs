@@ -40,7 +40,7 @@ export default function Page() {
   }
 
   return (
-    <main className="flex min-h-screen flex-col p-4">
+    <main className="flex min-h-screen flex-col p-4 bg-orange-200">
       <div className="flex flex-col items-center justify-center bg-orange-400 h-40 rounded-lg overflow-hidden p-4 lg:flex-row lg:justify-around ">
         <h1 className="font-black text- text-white italic whitespace-nowrap md:text-2xl lg:text-4xl">
           Top Fiat Currencies since All Time High
